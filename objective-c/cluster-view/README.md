@@ -9,14 +9,18 @@ The below images will help explain the various layout options.
 
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_2_pics.png)
 
-3 Image Cluster
+###3 Image Cluster
+
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_3_pics.png)
 
-4 Image Cluster
+###4 Image Cluster
+
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_4_pics.png)
 
-5 Image Cluster
+###5 Image Cluster
+
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_5_pics.png)
 
-6 Image Cluster
+###6 Image Cluster
+
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_6_pics.png)
