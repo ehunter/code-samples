@@ -14,5 +14,7 @@ photos by calculating the square root of the sum of the squared distances betwee
 value in the matrix. If the difference is <= the threshold (200) I can reasonably assume these photos
 are similar enough to create a Wiggle (aka Animated GIF).
 
-###Demo of the 'events' and 'wiggles' this code creates
-<iframe src="//player.vimeo.com/video/73715103" width="500" height="758" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73715103">Woven Wiggles</a> from <a href="http://vimeo.com/user2773262">Erik Hunter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+The link below is a demo of the 'events' and 'wiggles' this code creates
+
+<a href="http://vimeo.com/73715103" target="_blank"><img src="https://github.com/ehunter/github.io/blob/gh-pages/images/wiggles_demo.jpg?raw=true" 
+alt="IMAGE ALT TEXT HERE" width="750" height="562" border="10" /></a>
