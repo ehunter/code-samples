@@ -1,7 +1,7 @@
 Core Animation Example
 ============
 
-This is a brief example showing an initial UITableCellView with Core Animation. 
+This is a brief example showing of a UITableCellView animating in with Core Animation. 
 
 The animation performs a 3D transform on the layer to give the effect that the
 view is subtly flipping into position.
