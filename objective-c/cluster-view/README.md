@@ -5,7 +5,8 @@ This is a custom view for laying out images in a 'brick' style. It can handle an
 
 The below images will help explain the various layout options.
 
-2 Image Cluster
+###2 Image Cluster
+
 ![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_2_pics.png)
 
 3 Image Cluster
