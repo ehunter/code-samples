@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "PBS Newshour",
+        "channel_listing_id": "litl_pbs_pbsNewshour",
+        "url": "http://video.pbs.org/program/979359630/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "On air and online, providing in-depth analysis of the issues that matter to you. ",
+        "description": "Millions of Americans turn to MacNeil/Lehrer Productions for the solid, reliable reporting that has made PBS NewsHour one of the most trusted news programs in television. ",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, news, reporting, current affairs, politics, Jim Lehrer",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=PBS%20Newshour&showId=pbsNewshour&network=pbs"
+    }
+}

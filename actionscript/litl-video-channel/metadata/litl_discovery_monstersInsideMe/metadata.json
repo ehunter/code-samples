@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Monsters Inside Me",
+        "channel_listing_id": "litl_discovery_monstersInsideMe",
+        "url": "http://animal.discovery.com/tv/monsters-inside-me/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Explore the shocking, gruesome details of parasitic infection on Monsters Inside Me.",
+        "description": "What happens when humans fall prey to parasites? Explore the shocking, gruesome and sometimes deadly details of parasitic infection on Monsters Inside Me.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Animal Planet tv monsters inside me",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=monstersInsideMe&showTitle=Monsters%20Inside%20Me&network=discovery"
+    }
+}

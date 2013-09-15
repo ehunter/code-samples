@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Maya & Miguel",
+        "channel_listing_id": "litl_pbs_mayaMiguel",
+        "url": "http://pbskids.org/mayaandmiguel/flash.html",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The adventures of 10-year-old siblings Maya and Miguel Santos.",
+        "description": "MAYA & MIGUEL chronicles the adventures, and sometimes misadventures, of 10-year-old siblings Maya and Miguel Santos, and features their family, relatives and a richly diverse neighborhood of friends.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Maya%20%26%20Miguel&showId=mayaMiguel&network=pbsKids"
+    }
+}

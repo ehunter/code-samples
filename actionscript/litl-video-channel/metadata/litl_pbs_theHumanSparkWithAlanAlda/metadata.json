@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "The Human Spark with Alan Alda",
+        "channel_listing_id": "litl_pbs_theHumanSparkWithAlanAlda",
+        "url": "http://www.pbs.org/wnet/humanspark/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Alan Alda visits dozens of scientists on three continents to find out: What makes us human?",
+        "description": "Alan Alda visits dozens of scientists on three continents -- and even undergoes an examination of his own brain -- to find the answer to one question: What makes us human?",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Human Spark, Alan Alda, science, brain",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=The%20Human%20Spark%20with%20Alan%20Alda&showId=theHumanSparkWithAlanAlda&network=pbs"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Ocean Adventures",
+        "channel_listing_id": "litl_pbs_oceanAdventures",
+        "url": "http://www.pbs.org/kqed/oceanadventures/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Join Jean-Michel Cousteau as he comes face to face with the friendly and ferocious inhabitants of the deep.",
+        "description": "Join Jean-Michel Cousteau and his acclaimed diving teams as they explore a thrilling array of natural phenomena, investigate little known territories and ecosystems hundreds of feet beneath the ocean's surface, and come face to face with the friendly and ferocious inhabitants of the deep.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Ocean Adventures, Jean-Michel Cousteau, diving, ocean",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Ocean%20Adventures&showId=oceanAdventures&network=pbs"
+    }
+}

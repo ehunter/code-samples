@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": {{ show|jsonencode }},
+        "channel_listing_id": "{{ listing_id }}",
+        "url": "{{ url }}",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": {{ summary|jsonencode }},
+        "description": {{ description|jsonencode }},
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "{{ keywords }}",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle={{ show|urlencode }}&showId={{ show_id }}&network={% if type == "Kids" %}pbsKids{% else %}pbs{% endif %}"
+    }
+}

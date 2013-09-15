@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Masterpiece",
+        "channel_listing_id": "litl_pbs_masterpiece",
+        "url": "http://video.pbs.org/program/979359625/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The longest-running primetime drama on American television",
+        "description": "As the longest-running primetime drama on American television, Masterpiece is committed to bringing viewers the best in literature-based drama, mysteries, and groundbreaking contemporary works.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, drama, history, suspense, romance",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Masterpiece&showId=masterpiece&network=pbs"
+    }
+}

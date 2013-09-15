@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "River Monsters",
+        "channel_listing_id": "litl_discovery_riverMonsters",
+        "url": "http://animal.discovery.com/tv/river-monsters/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "\"River Monsters\" uncovers the world’s largest, strangest and most dangerous fish.",
+        "description": "In \"River Monsters,\" extreme angler Jeremy Wade uncovers the world’s largest, strangest and most dangerous fish.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "animal planet tv river monsters",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=riverMonsters&showTitle=River%20Monsters&network=discovery"
+    }
+}

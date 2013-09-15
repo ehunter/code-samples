@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Keeping Score",
+        "channel_listing_id": "litl_pbs_keepingScore",
+        "url": "http://www.pbs.org/keepingscore/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Explore the music and compelling stories of composerswho struggled with musical language as a unique expression of their ideas.",
+        "description": "Explore the music and compelling stories of composers including Hector Berlioz, Charles Ives, Dmitri Shostakovich, who each struggled with musical language as a unique expression of their ideas.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Keeping score, Hector Berlioz, Charles Ives, Dmitri Shostakovich, music, composers, classical",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Keeping%20Score&showId=keepingScore&network=pbs"
+    }
+}

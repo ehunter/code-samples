@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Untamed and Uncut",
+        "channel_listing_id": "litl_discovery_untamedAndUncut",
+        "url": "http://animal.discovery.com/videos/untamed-uncut/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Animal Planet travels around the world to meet the people whose lives are forever changed by encounters with animals.",
+        "description": "A close look at wild animals living in freedom. Animal Planet takes viewers on a journey around the world to meet the people whose lives are forever changed by their amazing, heart-pounding, moving encounters with animals. Detailed computer graphics break down these video flashpoints even further to show exactly what happened during the encounter and complete these awe-inspiring stories. The new season of \"UNTAMED & UNCUT\" also features viewer submissions and user-generated content both on-air and online – some of which have never been aired.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Animal Planet tv untamed and Uncut",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=untamedAndUncut&showTitle=Untamed%20and%20Uncut&network=discovery"
+    }
+}

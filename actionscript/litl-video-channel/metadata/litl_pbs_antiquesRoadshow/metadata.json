@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Antiques Roadshow",
+        "channel_listing_id": "litl_pbs_antiquesRoadshow",
+        "url": "http://video.pbs.org/program/979359328/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Some of the country\u2019s leading specialists offer free appraisals of antiques and collectibles.",
+        "description": "In each hour-long episode of Antiques Roadshow, some of the country\u2019s leading specialists offer free appraisals of antiques and collectibles. Roadshow\u2019s cameras capture tales of family heirlooms and yard-sale bargains.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Antiques Roadshow, antiques, art, nonfiction",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Antiques%20Roadshow&showId=antiquesRoadShow&network=pbs"
+    }
+}

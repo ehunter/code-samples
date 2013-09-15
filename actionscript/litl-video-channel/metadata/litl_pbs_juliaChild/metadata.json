@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Julia Child",
+        "channel_listing_id": "litl_pbs_juliaChild",
+        "url": "http://video.pbs.org/program/1073557581/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A collection of episodes from many of Julia's popular cooking programs.",
+        "description": "Julia Child revolutionized American cuisine through her French cooking school, award-winning cookbooks, and world-renowned television programs by presenting an approachable version of sophisticated French cooking to her eager audience for four decades.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Cooking, Food, Recipes, How To",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Julia%20Child&showId=juliaChild&network=pbs"
+    }
+}

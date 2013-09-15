@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprShows>
+	<show>
+		<name>tinyDesk</name>
+		<id>Tiny Desk Concerts</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-assets/npr/cardViewImages/tinyDesk_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-assets/npr/showBackgrounds/tinyDesk_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-assets/pbs/showLogos/americanExperience_logo.png</networkLogo>
+	</show>
+</nprShows>

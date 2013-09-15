@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Made in Spain",
+        "channel_listing_id": "litl_pbs_madeInSpain",
+        "url": "http://www.pbs.org/madeinspain/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A series exploring the culinary and cultural riches of Spain hosted by chef Jose Andres",
+        "description": "MADE IN SPAIN is a series exploring the culinary and cultural riches of Spain. Hosted by chef Jose Andres, the series highlights the extraordinary cooking traditions of a country whose food and wine is capturing the worlds' imagination.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, cooking, jose andres, recipes, global food, spanish",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Made%20in%20Spain&showId=madeInSpain&network=pbs"
+    }
+}

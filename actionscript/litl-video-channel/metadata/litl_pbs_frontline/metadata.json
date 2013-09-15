@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Frontline",
+        "channel_listing_id": "litl_pbs_frontline",
+        "url": "http://video.pbs.org/program/979358040/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Credible, thoughtful reporting combined with powerful narrative, a good story well told.",
+        "description": "Exploring and illuminating the critical issues of our times \u2013 from Iraq and the war on terror, business, the economy to social issues, politics and health, science and technology.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Frontline, news, current affairs, documentary, nonfiction",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Frontline&showId=frontline&network=pbs"
+    }
+}

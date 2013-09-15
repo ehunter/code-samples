@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Latin Music USA",
+        "channel_listing_id": "litl_pbs_latinMusicUsa",
+        "url": "http://video.pbs.org/program/1253189365/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "LATIN MUSIC USA tells the story of the rise of new American music forged from powerful Latin roots.",
+        "description": "From Latin jazz and mambo to salsa, Tejano, Chicano rock, Latin pop and reggaeton, LATIN MUSIC USA tells the story of the rise of new American music forged from powerful Latin roots and reveals the often overlooked influence of Latin music on jazz, hip hop, rhythm and blues and rock 'n' roll \u2014 and on all of American culture.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Latin jazz, mambo, salsa, Tejano, Chicano, Latin pop, reggaeton, LATIN MUSIC USA",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Latin%20Music%20USA&showId=latinMusicUsa&network=pbs"
+    }
+}

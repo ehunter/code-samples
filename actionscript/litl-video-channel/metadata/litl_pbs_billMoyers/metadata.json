@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Bill Moyers",
+        "channel_listing_id": "litl_pbs_billMoyers",
+        "url": "http://video.pbs.org/program/1113570149/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Providing fresh, alternative insights into the personalities and issues shaping our country.",
+        "description": "Bill Moyers Journal provides fresh, alternative insights into the personalities and issues shaping our country and the deeper, more institutional challenges facing us now and in the future.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, News, current affairs, politics",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Bill%20Moyers&showId=billMoyers&network=pbs"
+    }
+}

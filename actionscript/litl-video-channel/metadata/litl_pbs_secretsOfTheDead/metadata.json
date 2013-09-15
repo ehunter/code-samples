@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Secrets of the Dead",
+        "channel_listing_id": "litl_pbs_secretsOfTheDead",
+        "url": "http://video.pbs.org/program/1185782726/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Unearthing evidence from around the world, challenging prevailing ideas and throwing fresh light on unexplained events.",
+        "description": "Part detective story, part true-life drama, Secrets of the Dead unearths evidence from around the world, challenging prevailing ideas and throwing fresh light on unexplained events. Using the most up-to-date science in the laboratory and in the field, scientists and researchers examine the missing pieces of each puzzle, completing the picture of what had been merely an assemblage of suppositions.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, drama, mystery, history, historical, documentary",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Secrets%20of%20the%20Dead&showId=secretsOfTheDead&network=pbs"
+    }
+}

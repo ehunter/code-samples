@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Ground War",
+        "channel_listing_id": "litl_pbs_groundWar",
+        "url": "http://www.pbs.org/wnet/ground-war/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Ground War explores the transformative technological advances that have defined battlefield combat through the ages.",
+        "description": "Ground War explores the transformative technological advances that have defined battlefield combat through the ages. From the gladius to the AK-47, from the chariot to the tank, from the trebuchet to the howitzer, and from the battle ramp to the star fort, the series follows the fascinating punch and counterpunch of battle tactics and new technologies.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Ground War, technology, combat, war, weapons, guns, history",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Ground%20War&showId=groundWar&network=pbs"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Deadliest Catch",
+        "channel_listing_id": "litl_discovery_deadliestCatch",
+        "url": "http://dsc.discovery.com/tv/deadliest-catch/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "The Bering Sea’s toughest crews return  to take viewers through some of the roughest situations on the high seas. ",
+        "description": "The Bering Sea’s toughest crews return for an all-new season of crab fishing that takes viewers through some of the roughest situations the captains and crews have ever had to face on the high seas. From treacherous weather conditions to crew conflict to the death of beloved Captain Phil Harris, the new season bring viewers into the intimate world of these crab fisherman...",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Discovery tv deadliest catch",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=deadliestCatch&showTitle=Deadliest%20Catch&network=discovery"
+    }
+}

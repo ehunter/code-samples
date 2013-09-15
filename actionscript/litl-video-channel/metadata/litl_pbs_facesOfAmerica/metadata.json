@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Faces of America",
+        "channel_listing_id": "litl_pbs_facesOfAmerica",
+        "url": "http://www.pbs.org/wnet/facesofamerica/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "What made America? What makes us? These two questions are at the heart of this new PBS series.",
+        "description": "What made America? What makes us? These two questions are at the heart of the new PBS series Faces of America with Henry Louis Gates, Jr. The Harvard scholar turns to the latest tools of genealogy and genetics to explore the family histories of 12 renowned Americans",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Culture, Documentary, Biographic, Diversity",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Faces%20of%20America&showId=facesOfAmerica&network=pbs"
+    }
+}

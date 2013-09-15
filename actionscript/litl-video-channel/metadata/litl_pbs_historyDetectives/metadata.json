@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "History Detectives",
+        "channel_listing_id": "litl_pbs_historyDetectives",
+        "url": "http://video.pbs.org/program/1138014438/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Delving into legends, folklore and personal histories to discover potentially extraordinary objects.",
+        "description": "America's top gumshoes are back for a seventh season to prove once again that an object found in an attic or backyard might be anything but ordinary. Exploring historical objects and the stories behind them, History Detectives crisscrosses the country delving into legends, folklore and personal histories to discover potentially extraordinary objects in everyday American homes.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, history, mystery, investigation, archeology, collectibles, technology",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=History%20Detectives&showId=historyDetectives&network=pbs"
+    }
+}

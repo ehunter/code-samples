@@ -1,0 +1,143 @@
+<project basedir="./" default="build-debug-swf" name="LitlVideoChannel"
+    xmlns:rsel="antlib:org.apache.tools.ant.types.resources.selectors"
+    xmlns:rcmp="antlib:org.apache.tools.ant.types.resources.comparators">
+  <property name="build.properties.path" value="${basedir}/build.properties"/>
+  <property file="${build.properties.path}"/>
+
+  <taskdef resource="flexTasks.tasks" classpath="${flex.sdk.home}/ant/lib/flexTasks.jar" />
+
+  <target name="clean">
+    <delete dir="${output.path}"/>
+  </target>
+
+  <macrodef name="gitify-engine-metadata">
+    <sequential>
+      <replaceregexp file="${engine.constants}"
+             match="(CHANNEL_ID\s*:\s*String\s*=\s*&quot;)(.+)(&quot;;)"
+             replace="\1\2-git\3"/>
+      <replaceregexp file="metadata/metadata.json"
+             match="(&quot;name&quot;\s*:\s*&quot;)(.+)(&quot;,?)"
+             replace="\1\2 (git)\3"/>
+      <replaceregexp file="metadata/metadata.json"
+             match="(&quot;channel_engine_guid&quot;\s*:\s*&quot;)(.+)(&quot;,?)"
+             replace="\1\2-git\3"/>
+    </sequential>
+  </macrodef>
+
+  <macrodef name="gitify-channel-metadata">
+    <sequential>
+      <replaceregexp
+             match="(&quot;channel_listing_id&quot;\s*:\s*&quot;)(.+)(&quot;,?)"
+             replace="\1\2-git\3">
+        <fileset dir="." includes="metadata/*/metadata.json"/>
+      </replaceregexp>
+      <replaceregexp
+             match="(&quot;name&quot;\s*:\s*&quot;)(.+)(&quot;,?)"
+             replace="\1\2 (git)\3">
+        <fileset dir="." includes="metadata/*/metadata.json"/>
+      </replaceregexp>
+      <!-- This regex is to match the shared engine id -->
+      <replaceregexp
+             match="(&quot;id&quot;\s*:\s*&quot;)(.+)(&quot;,?)"
+             replace="\1\2-git\3">
+        <fileset dir="." includes="metadata/*/metadata.json"/>
+      </replaceregexp>
+    </sequential>
+  </macrodef>
+
+  <target name="build-git-zip" description="Build git deploy zipfile and update with git metadata">
+    <gitify-engine-metadata/>
+    <gitify-channel-metadata/>
+    <antcall target="build-release-zip"/>
+  </target>
+
+  <target name="build-release-zip">
+    <antcall target="clean"/>
+    <antcall target="build-release-swf"/>
+    <zip destfile="${flex.output.zip}"
+         basedir="${flex.output.path}"
+         excludes="*.cache" />
+  </target>
+
+  <target name="build-release-swf">
+    <antcall target="build-swf">
+      <param name="debug" value="false"/>
+    </antcall>
+    <!-- discovery has no runtime assets.  uncomment next line to add.  -->
+    <!-- <antcall target="copy-assets" /> -->
+  </target>
+
+  <target name="build-debug-swf">
+    <antcall target="build-swf">
+      <param name="debug" value="true"/>
+    </antcall>
+    <!-- discovery has no runtime assets.  uncomment next line to add. -->
+    <!-- <antcall target="copy-assets" />-->
+  </target>
+
+  <target name="update-version-file">
+    <copy file="${basedir}/Version.as.template"
+          tofile="${basedir}/Version.as"
+          overwrite="true"
+          verbose="true"/>
+    <replace file="${basedir}/Version.as"
+             token="@@{{litl.channel.version}}@@"
+             value="${litl.channel.version}"
+             summary="true"/>
+  </target>
+
+  <target name="copy-assets">
+    <copy preservelastmodified="true"
+          todir="${flex.output.path}/assets"
+          verbose="true">
+      <fileset dir="${flex.assets}" />
+    </copy>
+  </target>
+
+  <target name="build-swf" depends="update-version-file" description="Build swf">
+    <mxmlc file="${flex.main}"
+           output="${flex.output.swf}"
+           keep-generated-actionscript="false"
+           incremental="true"
+           as3="true"
+           optimize="true"
+           fork="${fork_fb}"
+           maxmemory="512m"
+           debug="${debug}"
+           locale="${locale}"
+           strict="true"
+           static-link-runtime-shared-libraries="true"
+           default-frame-rate="24"
+           target-player="${playerglobal.version}"
+           >
+
+      <!-- Get default compiler options. -->
+      <load-config filename="${flex.sdk.home}/frameworks/flex-config.xml"/>
+
+      <!-- List of path elements that form the roots of ActionScript class hierarchies. -->
+      <compiler.source-path path-element="${flex.source}"/>
+      <compiler.source-path path-element="${flex.sdk.home}/frameworks"/>
+
+      <compiler.library-path dir="${flex.sdk.home}/frameworks" append="true">
+        <include name="libs"/>
+        <include name="locale/${locale}"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.core.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.controls.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.helpers.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${flex.lib}" append="true">
+        <include name="*.swc"/>
+      </compiler.library-path>
+    </mxmlc>
+  </target>
+</project>

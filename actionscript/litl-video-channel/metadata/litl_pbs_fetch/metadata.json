@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Fetch!",
+        "channel_listing_id": "litl_pbs_fetch",
+        "url": "http://pbskids.org/fetch/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Real kids and an unreal, animated-dog host named Ruff Ruffman.",
+        "description": "Part game show, part reality TV, and part spoof, FETCH! features real kids, real challenges, real science, and an unreal, animated-dog host named Ruff Ruffman.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Fetch%21&showId=fetch&network=pbsKids"
+    }
+}

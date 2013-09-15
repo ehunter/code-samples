@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Dinosaur Train",
+        "channel_listing_id": "litl_pbs_dinosaurTrain",
+        "url": "http://pbskids.org/dinosaurtrain/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Incorporates children's enthusiasm for dinosaurs and trains.",
+        "description": "Dinosaur Train incorporates children's enthusiasm for dinosaurs and trains while educating children in scientific thinking, natural history, and paleontology. The show encourages children to explore questions, observations and conclusions.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Dinosaur%20Train&showId=dinosaurTrain&network=pbsKids"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Carrier",
+        "channel_listing_id": "litl_pbs_carrier",
+        "url": "http://video.pbs.org/program/1120934036/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A character-driven immersion in the high-stakes world of a nuclear aircraft carrier.",
+        "description": "CARRIER, a 10-part series filmed aboard the USS Nimitz, is a character-driven immersion in the high- stakes world of a nuclear aircraft carrier. The episodes follow a core group of characters as they navigate their jobs, families, faith, patriotism, love, the rites of passage and the war on terror. ",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, military, USS Nimitz, Iraq war, Marines, war, aircraft, documentary",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Carrier&showId=carrier&network=pbs"
+    }
+}

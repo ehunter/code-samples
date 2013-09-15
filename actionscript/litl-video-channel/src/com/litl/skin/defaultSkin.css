@@ -1,0 +1,385 @@
+/* Copyright (c) 2010 litl, LLC
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to
+ * deal in the Software without restriction, including without limitation the
+ * rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+ * sell copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+ * IN THE SOFTWARE.
+ */
+
+/* Text button */
+
+TextButton
+{
+    upSkin: com.litl.skin.parts.TextButtonUpSkin;
+    downSkin: com.litl.skin.parts.TextButtonDownSkin;
+    overSkin: com.litl.skin.parts.TextButtonOverSkin;
+    disabledSkin: com.litl.skin.parts.TextButtonDisabledSkin;
+}
+
+TextButtonUpSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0xffd67e;
+    cornerRadius: auto;
+}
+
+TextButtonDownSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0xffd67e;
+    cornerRadius: auto;
+}
+
+TextButtonOverSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0xffffff;
+    cornerRadius: auto;
+}
+
+TextButtonDisabledSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0x2E4142;
+    cornerRadius: auto;
+}
+
+.textButtonUpLabel
+{
+    fontFace: CorpoS;
+    color: 0x000000;
+    size: 17;
+}
+
+.textButtonOverLabel
+{
+    fontFace: CorpoS;
+    color: 0x000000;
+    size: 17;
+}
+
+.textButtonDownLabel
+{
+    fontFace: CorpoS;
+    color: 0xffffff;
+    size: 17;
+}
+
+.textButtonDisabledLabel
+{
+    fontFace: CorpoS;
+    color: 0x666666;
+    size: 17;
+}
+
+TextInput
+{
+    backgroundSkin: com.litl.skin.parts.TextInputBackgroundSkin;
+    fontFace: CorpoS;
+    color: 0xffffff;
+    size: 17;
+    paddingLeft: 6;
+    paddingRight: 6;
+    paddingTop: 6;
+    paddingBottom: 6;
+}
+
+TextInputBackgroundSkin
+{
+    borderColor: 0xffd67e;
+    borderThickness: 2;
+    backgroundColor: 0x111111;
+    cornerRadius: 10;
+}
+
+ModalMenuButton
+{
+    upSkin: com.litl.skin.parts.ModalMenuButtonUpSkin;
+    downSkin: com.litl.skin.parts.ModalMenuButtonDownSkin;
+    overSkin: com.litl.skin.parts.ModalMenuButtonOverSkin;
+    disabledSkin: com.litl.skin.parts.ModalMenuButtonDisabledSkin;
+}
+
+ModalMenuButtonUpSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x0;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonDownSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0xffd67e;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonOverSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x9AD7DB;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonDisabledSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x0;
+    cornerRadius: 30;
+}
+
+.modalMenuButtonUpLabel
+{
+    fontFace: CorpoS;
+    color: 0xffffff;
+    size: 50;
+}
+
+.modalMenuButtonOverLabel
+{
+    fontFace: CorpoS;
+    color: 0x0;
+    size: 50;
+}
+
+.modalMenuButtonDownLabel
+{
+    fontFace: CorpoS;
+    color: 0x0;
+    size: 50;
+}
+
+.modalMenuButtonDisabledLabel
+{
+    fontFace: CorpoS;
+    color: 0x666666;
+    size: 50;
+}
+
+.standardText
+{
+    fontFace: CorpoS;
+    color: 0xffffff;
+    size: 18;
+}
+
+/* Lists */
+
+ScrollableList
+{
+    padding: 8;
+    gap: 4;
+}
+
+Slideshow
+{
+    padding: 0;
+    gap: 0;
+}
+
+Filmstrip
+{
+    backgroundSkin: com.litl.skin.parts.FilmstripBackground;
+    padding: 27;
+    gap: 10;
+}
+
+FilmstripBackground
+{
+    backgroundColor: 0x0;
+    borderThickness: 2;
+    borderColor: 0x4d4d4d;
+}
+
+VerticalList
+{
+    backgroundSkin: com.litl.skin.parts.RectangleSkin;
+    padding: 2;
+}
+
+SelectableItemRenderer
+{
+    backgroundColor: 0x000000;
+    selectedColor: 0xcfa64e;
+    highlightedColor: 0xffd67e;
+}
+
+ArrowButton
+{
+    upSkin: com.litl.skin.parts.ArrowUpSkin;
+    downSkin: com.litl.skin.parts.ArrowDownSkin;
+    overSkin: com.litl.skin.parts.ArrowOverSkin;
+    disabledSkin: com.litl.skin.parts.ArrowDisabledSkin;
+}
+
+ArrowUpSkin
+{
+    padding: 4;
+    color: 0xcfcfcf;
+}
+
+ArrowOverSkin
+{
+    padding: 4;
+    color: 0xffffff;
+}
+
+ArrowDownSkin
+{
+    padding: 4;
+    color: 0x7f7f7f;
+}
+
+ArrowDisabledSkin
+{
+    padding: 4;
+    color: 0x666666;
+}
+
+LitlVolumeBar
+{
+    barSkin: com.litl.skin.parts.VolumeBarBar;
+    backgroundColor: 0x000000;
+    color: 0xffd67e;
+}
+
+VolumeBarBar
+{
+    backgroundColor: 0xffd67e;
+    borderThickness: 0;
+}
+
+LitlScrubBar
+{
+    trackSkin: com.litl.skin.parts.ScrubBarTrack;
+    barSkin: com.litl.skin.parts.ScrubBarBar;
+    bufferBarSkin: com.litl.skin.parts.ScrubBarBufferBar;
+}
+
+ScrubBarTrack
+{
+    backgroundColor: 0x333333;
+    borderColor: 0x111111;
+    borderThickness: 0;
+}
+
+ScrubBarBar
+{
+    backgroundColor: 0x333333;
+    borderThickness: 0;
+}
+
+ScrubBarBufferBar
+{
+    backgroundColor: 0x555555;
+    borderThickness: 0;
+    paddingTop: 0;
+    paddingBottom: 0;
+    paddingLeft: 0;
+    paddingRight: 0;
+}
+
+LitlPlayButton
+{
+    upSkin: com.litl.skin.parts.PlayButtonUpSkin;
+    downSkin: com.litl.skin.parts.PlayButtonDownSkin;
+    overSkin: com.litl.skin.parts.PlayButtonOverSkin;
+    disabledSkin: com.litl.skin.parts.PlayButtonDisabledSkin;
+}
+
+LitlPauseButton
+{
+    upSkin: com.litl.skin.parts.PauseButtonUpSkin;
+    downSkin: com.litl.skin.parts.PauseButtonDownSkin;
+    overSkin: com.litl.skin.parts.PauseButtonOverSkin;
+    disabledSkin: com.litl.skin.parts.PauseButtonDisabledSkin;
+}
+
+LitlFullscreenButton
+{
+    upSkin: com.litl.skin.parts.FullscreenButtonUpSkin;
+    downSkin: com.litl.skin.parts.FullscreenButtonDownSkin;
+    overSkin: com.litl.skin.parts.FullscreenButtonOverSkin;
+    disabledSkin: com.litl.skin.parts.FullscreenButtonDisabledSkin;
+}
+
+FullscreenButtonUpSkin
+{
+    color: 0xffffff;
+    backgroundColor: 0x111111;
+    borderThickness: 0px;
+}
+
+FullscreenButtonDownSkin
+{
+    color: 0xffd67e;
+    backgroundColor: 0x111111;
+    borderThickness: 0px;
+}
+
+FullscreenButtonOverSkin
+{
+    color: 0x000000;
+    backgroundColor: 0xffd67e;
+    borderThickness: 0px;
+}
+
+FullscreenButtonDisabledSkin
+{
+    color: 0x000000;
+    backgroundColor: 0x333333;
+    borderThickness: 0px;
+}
+
+LitlFullscreenLink
+{
+    upSkin: com.litl.skin.parts.FullscreenLinkUpSkin;
+    downSkin: com.litl.skin.parts.FullscreenLinkDownSkin;
+    overSkin: com.litl.skin.parts.FullscreenLinkOverSkin;
+    disabledSkin: com.litl.skin.parts.FullscreenLinkDisabledSkin;
+}
+
+FullscreenLinkUpSkin
+{
+    color: 0x48b3a8;
+    backgroundColor: 0x000000;
+    borderThickness: 0px;
+}
+
+FullscreenLinkDownSkin
+{
+    color: 0xffd67e;
+    backgroundColor: 0x000000;
+    borderThickness: 0px;
+}
+
+FullscreenLinkOverSkin
+{
+    color: 0xffffff;
+    backgroundColor: 0x000000;
+    borderThickness: 0px;
+}
+
+FullscreenLinkDisabledSkin
+{
+    color: 0x333333;
+    backgroundColor: 0x000000;
+    borderThickness: 0px;
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Nature",
+        "channel_listing_id": "litl_pbs_nature",
+        "url": "http://video.pbs.org/program/979358043/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The beauty and wonder of the natural world.",
+        "description": "For more than a quarter-century, NATURE has brought the beauty and wonder of the natural world into American homes, becoming in the process the benchmark of natural history programs on television. ",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, animals, nonfiction, documentary, wildlife",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Nature&showId=nature&network=pbs"
+    }
+}

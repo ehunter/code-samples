@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Washington Week",
+        "channel_listing_id": "litl_pbs_washingtonWeek",
+        "url": "http://video.pbs.org/program/1171699076/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The longest-running primetime news and public affairs program on television",
+        "description": "Washington Week is the longest-running primetime news and public affairs program on television. The show features a group of journalists participating in a roundtable discussion of major news events and can be found at 8pm ET on most local PBS stations.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, News, Current Affairs, Politics, Political Science",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Washington%20Week&showId=washingtonWeek&network=pbs"
+    }
+}

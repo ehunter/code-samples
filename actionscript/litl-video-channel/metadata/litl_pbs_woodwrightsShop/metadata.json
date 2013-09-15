@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Woodwrights Shop",
+        "channel_listing_id": "litl_pbs_woodwrightsShop",
+        "url": "http://www.pbs.org/woodwrightsshop/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Roy Underhill celebrates nearly 30 years of teaching traditional woodworking skills to millions of national public television viewers.",
+        "description": "When it comes to carving your niche in the new millennium, come to the man who knows what it takes to survive!  This storied UNC-TV series starring Roy Underhill celebrates nearly 30 years of teaching traditional woodworking skills to millions of national public television viewers.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Woodwrights Shop, Woodworking, How To, Craft",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Woodwrights%20Shop&showId=woodwrightsShop&network=pbs"
+    }
+}

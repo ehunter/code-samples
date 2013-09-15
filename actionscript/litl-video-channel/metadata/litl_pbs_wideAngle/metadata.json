@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Wide Angle",
+        "channel_listing_id": "litl_pbs_wideAngle",
+        "url": "http://www.pbs.org/wnet/wideangle/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Wide Angle tells the very human stories behind crucial global issues and devoted to international current affairs documentaries.",
+        "description": "Hosted by award-winning journalist Aaron Brown, Wide Angle tells the very human stories behind crucial global issues. It's America's only program exclusively devoted to international current affairs documentaries.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Documentary, International, News, Current Affairs",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Wide%20Angle&showId=wideAngle&network=pbs"
+    }
+}

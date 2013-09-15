@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "19 Kids and Counting",
+        "channel_listing_id": "litl_discovery_kidsAndCounting",
+        "url": "http://tlc.discovery.com/tv/duggars/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Meet the family that has America talking: The Duggars!",
+        "description": "Meet the family that has America talking: Michelle, Jim Bob, Joshua, Jana, John-David, Jill, Jessa, Jinger, Joseph, Josiah, Joy-Anna, Jeremiah, Jedidiah, Jason, James, Justin, Jackson, Johannah, Jennifer, Jordyn-Grace, Josie, Anna, Mackynzie & Josie.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "duggars tlc children kids",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=kidsAndCounting&showTitle=19%20Kids%20and%20Counting&network=discovery"
+    }
+}

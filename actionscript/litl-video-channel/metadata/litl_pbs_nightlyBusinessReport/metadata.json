@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Nightly Business Report",
+        "channel_listing_id": "litl_pbs_nightlyBusinessReport",
+        "url": "http://video.pbs.org/program/1140481159/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Providing insightful analysis of business, investment, and economic news of the day.",
+        "description": "Nightly Business Report rises above the noise of the marketplace with objective and insightful analysis of the top business, investment, and economic news of the day. NBR knows your money matters.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Economics, Business, News, Current Affairs, Finance, Economy",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Nightly%20Business%20Report&showId=nightlyBusinessReport&network=pbs"
+    }
+}

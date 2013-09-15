@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Lost Tapes",
+        "channel_listing_id": "litl_discovery_lostTapes",
+        "url": "http://animal.discovery.com/tv/lost-tapes/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Lost Tapes TV Channel",
+        "description": "Watch trailers of the newest Lost Tapes episodes from the Animal Planet.",
+        "price": "0",
+        "category": "Media",
+        "keywords": "Animal Planet tv lost tapes",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=lostTapes&showTitle=Lost%20Tapes&network=discovery"
+    }
+}

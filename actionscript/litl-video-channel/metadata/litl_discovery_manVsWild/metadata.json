@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Man vs. Wild",
+        "channel_listing_id": "litl_discovery_manVsWild",
+        "url": "http://dsc.discovery.com/tv/deadliest-catch/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Man vs. Wild TV Man vs. Wild brings seasoned adventurer Bear Grylls face to face with the grueling wild!",
+        "description": "Man vs. Wild brings seasoned adventurer Bear Grylls face to face with the grueling task of navigating remote locations, sharing invaluable survival strategies along the way.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Discovery tv man vs. wild",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=manVsWild&showTitle=Man%20vs.%20Wild&network=discovery"
+    }
+}

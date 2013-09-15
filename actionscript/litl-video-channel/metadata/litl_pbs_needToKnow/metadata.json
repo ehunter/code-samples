@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Need to Know",
+        "channel_listing_id": "litl_pbs_needToKnow",
+        "url": "http://video.pbs.org/program/1458405365/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Cuts through the noise of nonstop news to bring you the most compelling stories of the week.",
+        "description": "PBS's new TV and web newsmagazine gives you what you need to know -- along with a healthy dose of insight, perspective and wit. Need to Know cuts through the noise of nonstop news to bring you the most compelling stories of the week and of our times. Every Friday night nationwide and all week long on the web.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, News, Current Affairs, Media, Politics",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Need%20to%20Know&showId=needToKnow&network=pbs"
+    }
+}

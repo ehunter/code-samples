@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Blueprint America",
+        "channel_listing_id": "litl_pbs_blueprintAmerica",
+        "url": "http://www.pbs.org/wnet/blueprintamerica/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "America\u2019s decaying and neglected infrastructure.",
+        "description": "Blueprint America harnesses the power of public broadcasting\u2019s most prestigious programs, primetime documentaries, and the web to shine an unyielding spotlight on one of the most critical issues facing our country: America\u2019s decaying and neglected infrastructure.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Documentary, Transportation, Infrastructure",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Blueprint%20America&showId=blueprintAmerica&network=pbs"
+    }
+}

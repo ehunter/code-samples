@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Everyday Food",
+        "channel_listing_id": "litl_pbs_everydayFood",
+        "url": "http://video.pbs.org/program/1175461862/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The television series that brings the Everyday Food magazine and the new Everyday Food book  to life!",
+        "description": "Welcome to the television series that brings the Everyday Food magazine and the new Everyday Food book  to life! The four talented cooks \u2014 Sarah, Lucinda, John and Anna \u2014 show you nutritious, delicious recipes that are simple to prepare and easy enough to cook everyday.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Cooking, Food, Recipes, How To",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Everyday%20Food&showId=everydayFood&network=pbs"
+    }
+}

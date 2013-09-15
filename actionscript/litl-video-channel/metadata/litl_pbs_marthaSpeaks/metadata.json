@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Martha Speaks",
+        "channel_listing_id": "litl_pbs_marthaSpeaks",
+        "url": "http://pbskids.org/martha/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A lovable family dog with the power of speech who helps children understand words.",
+        "description": "Martha is outspoken, confident, smart and has an amazing vocabulary. She loves learning -- and using -- new words. Her best friend is 10-year-old Helen, who acts as Martha's voice of reason (not that Martha always listens!).",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Martha%20Speaks&showId=marthaSpeaks&network=pbsKids"
+    }
+}

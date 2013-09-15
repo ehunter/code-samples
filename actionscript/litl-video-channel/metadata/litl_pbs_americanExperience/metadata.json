@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "American Experience",
+        "channel_listing_id": "litl_pbs_americanExperience",
+        "url": "http://video.pbs.org/program/979359091/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Compelling stories from our past that inform our understanding of the world today.",
+        "description": "Praised as the \"finest documentary series on television,\" AMERICAN EXPERIENCE brings to life the compelling stories from our past that inform our understanding of the world today.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, documentary, American, experience, history, nonfiction",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=American%20Experience&showId=americanExperience&network=pbs"
+    }
+}

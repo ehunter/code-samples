@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "NOW on PBS",
+        "channel_listing_id": "litl_pbs_nowOnPbs",
+        "url": "http://www.pbs.org/now/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "NOW on PBS goes beyond the noisy churn of the news cycle to probe the most important issues facing democracy.",
+        "description": "Hosted by veteran journalist David Brancaccio, NOW on PBS goes beyond the noisy churn of the news cycle to probe the most important issues facing democracy and give viewers the context to explore their relationship with the larger world.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "NOW, PBS, David Brancaccio, news, politics, international",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=NOW%20on%20PBS&showId=nowOnPbs&network=pbs"
+    }
+}

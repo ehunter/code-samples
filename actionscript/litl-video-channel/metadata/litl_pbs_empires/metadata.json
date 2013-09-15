@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Empires",
+        "channel_listing_id": "litl_pbs_empires",
+        "url": "http://www.pbs.org/empires/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A series which presents the people and passions that have changed the world.",
+        "description": "Within the long history of civilization are great eras of struggle, triumph, and loss. These periods are reflective of the best and worst of humanity; explosive creativity, ultimate depravity, the use and abuse of power, and war.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, history, culture, war",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Empires&showId=empires&network=pbs"
+    }
+}

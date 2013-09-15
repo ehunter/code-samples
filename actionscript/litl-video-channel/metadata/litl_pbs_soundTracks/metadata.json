@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Sound Tracks",
+        "channel_listing_id": "litl_pbs_soundTracks",
+        "url": "http://video.pbs.org/program/1356395764/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Explore how music is transforming politics and  culture around the globe.",
+        "description": "Sound Tracks explores how music is transforming politics and  culture around the globe. The one-hour pilot serves up a diverse menu of  Russian pop, afrobeat, Portuguese fado, and symphonic  music.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Music, Biography, International, Art, Culture",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Sound%20Tracks&showId=soundTracks&network=pbs"
+    }
+}

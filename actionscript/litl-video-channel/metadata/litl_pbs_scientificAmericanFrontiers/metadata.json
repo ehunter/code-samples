@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Scientific American Frontiers",
+        "channel_listing_id": "litl_pbs_scientificAmericanFrontiers",
+        "url": "http://www.pbs.org/saf/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Join Alan Alda as he takes us from the depths of the conscious mind to the outer reaches of space.",
+        "description": "Alan Alda brings his unique blend of curiosity and humor to the exploration of the latest trends in science, medicine, technology, and the environment. Join Alan Alda as he takes us from the depths of the conscious mind to the outer reaches of space.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Scientific American Frontiers, Alan Alda, science, technology, environment, medicine, outer space",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Scientific%20American%20Frontiers&showId=scientificAmericanFrontiers&network=pbs"
+    }
+}

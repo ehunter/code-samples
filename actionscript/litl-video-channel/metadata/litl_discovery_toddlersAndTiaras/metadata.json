@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Toddlers and Tiaras",
+        "channel_listing_id": "litl_discovery_toddlersAndTiaras",
+        "url": "http://tlc.discovery.com/tv/toddlers-and-tiaras/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "Toddlers & Tiaras follows families on their quest for crowns, big titles and lots of cash.",
+        "description": "On any given weekend across the country, toddlers take the stage wearing makeup, spray tans and fake hair to be judged on beauty, personality and costumes. Toddlers & Tiaras follows families on their quest for sparkly crowns, big titles and lots of cash.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Discovery tv toddlers and tiaras",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=toddlersAndTiaras&showTitle=Toddlers%20and%20Tiaras&network=discovery"
+    }
+}

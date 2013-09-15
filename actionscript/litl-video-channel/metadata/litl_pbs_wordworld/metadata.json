@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "WordWorld",
+        "channel_listing_id": "litl_pbs_wordworld",
+        "url": "http://pbskids.org/wordworld/index_flash.html",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Words come alive, words save the day, and words become a child's best friend.",
+        "description": "WordWorld empowers children as early readers by making the important connections between letters, sounds, words and meaning that are necessary for reading. The animated WordFriends go on adventures and face challenges that can only be resolved using the correct word.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=WordWorld&showId=wordworld&network=pbsKids"
+    }
+}

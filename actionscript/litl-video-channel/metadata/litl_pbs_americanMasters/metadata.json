@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "American Masters",
+        "channel_listing_id": "litl_pbs_americanMasters",
+        "url": "http://video.pbs.org/program/1009784659/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Examining the lives, works, and creative processes of our most outstanding cultural artists.",
+        "description": "Since its premiere in 1986, AMERICAN MASTERS has been the only PBS series committed to developing and producing comprehensive film biographies about the broad cast of characters who comprise our cultural history.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, culture, artists, biography, music",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=American%20Masters&showId=americanMasters&network=pbs"
+    }
+}

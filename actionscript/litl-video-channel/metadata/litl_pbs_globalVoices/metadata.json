@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Global Voices",
+        "channel_listing_id": "litl_pbs_globalVoices",
+        "url": "http://video.pbs.org/program/1478905970/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Global Voices offers intimate and uncommon stories by and about everyday people.",
+        "description": "Global Voices offers intimate and uncommon stories by and about everyday people.  From North Korea to Israel, South Africa to the former Soviet Union, Global Voices offers rare insights and firsthand perspectives from the world and its people.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Global voices, people, international, world, news",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Global%20Voices&showId=globalVoices&network=pbs"
+    }
+}

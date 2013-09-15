@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Austin City Limits",
+        "channel_listing_id": "litl_pbs_austinCityLimits",
+        "url": "http://video.pbs.org/program/1273976454/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The longest-running music series in American television history.",
+        "description": "Great music. No limits. Now the longest-running music series in American television history, ACL showcases popular music legends and innovators from every genre. In addition to being honored by the Rock and Roll Hall of Fame and Museum as a rock and roll landmark, ACL is the only television program to ever receive the National Medal of Arts, the nation's highest award for artistic excellence.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, music, musicians, rock, blues",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Austin%20City%20Limits&showId=austinCityLimits&network=pbs"
+    }
+}

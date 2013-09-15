@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Victory Garden",
+        "channel_listing_id": "litl_pbs_victoryGarden",
+        "url": "http://video.pbs.org/program/1350098498/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Victory Garden takes viewers on a coast-to-coast gardening journey\u2014with host Jamie Durie.",
+        "description": "With so many Americans aspiring to care for the environment and create their own outdoor living spaces, The Victory Garden's unique fusion of garden design, earth-to-table cooking, and eco-conscious how-to tips is of greater interest today than ever before.  Now in it\u2019s 35th season, the Victory Garden takes viewers on a coast-to-coast gardening journey\u2014with host Jamie Durie.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Gardening, How To, Outdoors, Nature, Plants",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Victory%20Garden&showId=victoryGarden&network=pbs"
+    }
+}

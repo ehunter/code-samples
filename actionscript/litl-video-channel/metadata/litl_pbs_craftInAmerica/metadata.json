@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Craft in America",
+        "channel_listing_id": "litl_pbs_craftInAmerica",
+        "url": "http://video.pbs.org/program/1235387271/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Exploring the vitality, history and significance of the craft movement in the United States and its impact on our nation\u2019s rich cultural heritage.",
+        "description": "Craft in America explores the vitality, history and significance of the craft movement in the United States and its impact on our nation\u2019s rich cultural heritage.  Capturing the beauty, creativity and originality of craftsmanship, the film highlights artists and explores the inter-relationship of what they do, how they do it and why they have chosen a life of creating art.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Documentary, Craft, Art, American, Folk",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Craft%20in%20America&showId=craftInAmerica&network=pbs"
+    }
+}

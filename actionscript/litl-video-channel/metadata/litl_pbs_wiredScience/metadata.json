@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Wired Science",
+        "channel_listing_id": "litl_pbs_wiredScience",
+        "url": "http://www.pbs.org/kcet/wiredscience/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A science series that brings the magazine's award-winning journalism to public television.",
+        "description": "Take the DNA of Wired magazine, the first word on how science and technology are changing the world. Add the giant-robot might of PBS. Result: WIRED Science, a science series that brings the magazine's award-winning journalism, groundbreaking design and irreverent attitude to public television.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Wired Science, science, WIRED, technology, design",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Wired%20Science&showId=wiredScience&network=pbs"
+    }
+}

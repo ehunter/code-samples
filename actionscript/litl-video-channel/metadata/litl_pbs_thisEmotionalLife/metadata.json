@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "This Emotional Life",
+        "channel_listing_id": "litl_pbs_thisEmotionalLife",
+        "url": "http://video.pbs.org/program/1305344011/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Exploring ways to improve our social relationships, cope with emotional issues, and become more positive individuals.",
+        "description": "This 3-part series represents what television does best. It opens a window into real lives, exploring ways to improve our social relationships, cope with emotional issues, and become more positive, resilient individuals. Hosted by Daniel Gilbert, Harvard psychologist and best-selling author of Stumbling on Happiness.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, This Emotional Life, psychology, emotional issues",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=This%20Emotional%20Life&showId=thisEmotionalLife&network=pbs"
+    }
+}

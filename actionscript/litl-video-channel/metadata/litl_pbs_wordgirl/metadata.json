@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "WordGirl",
+        "channel_listing_id": "litl_pbs_wordgirl",
+        "url": "http://pbskids.org/wordgirl/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Enriching young audiences\u2019 vocabulary, closing the gap for those who don\u2019t grow up in language-rich environments.",
+        "description": "WordGirl is a new animated series that follows the every day life and superhero adventures of \u201cWordGirl\u201d as she fights crime and enriches vocabulary usage, all in a day\u2019s work. WordGirl enriches young audiences\u2019 vocabulary, closes the gap for those who don\u2019t grow up in language-rich environments, instills a love of language, and fosters better reading comprehension.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=WordGirl&showId=wordgirl&network=pbsKids"
+    }
+}

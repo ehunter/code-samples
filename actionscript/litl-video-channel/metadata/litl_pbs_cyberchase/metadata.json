@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Cyberchase",
+        "channel_listing_id": "litl_pbs_cyberchase",
+        "url": "http://pbskids.org/cyberchase/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Kids learn that math is everywhere and fun to use!",
+        "description": "In the world of CYBERCHASE, the dastardly villain Hacker is on a mad mission to take over Cyberspace with the help of his blundering henchbots, Buzz and Delete. But heroes, Inez, Jackie, and Matt, are three curious kids determined to stop him with the help of their cyberpal, Digit. Their weapon: brain power.\n",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Cyberchase&showId=cyberchase&network=pbsKids"
+    }
+}

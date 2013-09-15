@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "E2",
+        "channel_listing_id": "litl_pbs_e2",
+        "url": "http://www.pbs.org/e2/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "e2 is an ongoing PBS series about the economies of being environmentally conscious.",
+        "description": "e2 is an ongoing PBS series about the economies of being environmentally conscious with a combination of policy, technology and ingenuity from energy consumption to building efficiency.  It chronicles global efforts to solve pressing ecological challenges.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, E2, Science, Technology, Environment, Sustainability, Green",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=E2&showId=e2&network=pbs"
+    }
+}

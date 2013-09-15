@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psbShows>
+	<show>
+		<name>americanExperience</name>
+		<id>American Experience</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/americanExperience_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/americanExperience_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/americanExperience_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>americanMasters</name>
+		<id>American Masters</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/americanMasters_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/americanMasters_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/americanMasters_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>antiquesRoadShow</name>
+		<id>Antiques Roadshow</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/antiquesRoadShow_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/antiquesRoadShow_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/antiquesRoadShow_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>art21</name>
+		<id>ART:21</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/art21_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/art21_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/art21_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>arthur</name>
+		<id>Arthur</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/arthur-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/arthur-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/arthur-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>austinCityLimits</name>
+		<id>Austin City Limits</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/austinCityLimits_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/austinCityLimits_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/austinCityLimits_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>billMoyers</name>
+		<id>Bill Moyers</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/billMoyers_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/billMoyers_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/billMoyers_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>blueprintAmerica</name>
+		<id>Blueprint America</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/blueprintAmerica_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/blueprintAmerica_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>carrier</name>
+		<id>Carrier</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/carrier_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/carrier_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/carrier_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>cliffordTheBigRedDog</name>
+		<id>Clifford the Big Red Dog</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/clifford-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/clifford-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/clifford-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>craftInAmerica</name>
+		<id>Craft in America</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/craft-in-america-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/craft-in-america-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/craft-in-america-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>curiousGeorge</name>
+		<id>Curious George</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/curiousgeorge-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/curiousgeorge-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/curiousgeorge-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>cyberchase</name>
+		<id>Cyberchase</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/cyberchase-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/cyberchase-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/cyberchase-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>dinosaurTrain</name>
+		<id>Dinosaur Train</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/dtrain-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/dtrain-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/dtrain-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>dragonTales</name>
+		<id>Dragon Tales</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/dragontales-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/dragontales-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/dragontales-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>e2</name>
+		<id>e2</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/e2-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/e2-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/e2-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>empires</name>
+		<id>Empires</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/empires_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/empires_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>everydayFood</name>
+		<id>Everyday Food</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/everydayFood_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/everydayFood_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/everydayFood_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>facesOfAmerica</name>
+		<id>Faces of America</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/faces-america-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/faces-america-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/faces-america-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>fetch</name>
+		<id>FETCH! with Ruff Ruffman</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/fetch-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/fetch-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/fetch-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>frontline</name>
+		<id>FRONTLINE</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/frontline_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/frontline_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/frontline_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>greatPerformances</name>
+		<id>Great Performances</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/greatPerformances_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/greatPerformances_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/greatPerformances_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>globalVoices</name>
+		<id>Global Voices</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/global-voices-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/global-voices-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/global-voices-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>groundWar</name>
+		<id>Ground War</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/ground-war-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/ground-war-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/ground-war-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>historyDetectives</name>
+		<id>History Detectives</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/historyDetectives_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/historyDetectives_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/historyDetectives_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>inPerformanceAtTheWhiteHouse</name>
+		<id>In Performance at The White House</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/inPerformaceAtTheWhiteHouse_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/inPerformaceAtTheWhiteHouse_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>juliaChild</name>
+		<id>Julia Child</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/juliaChild_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/juliaChild_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/juliaChild_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>keepingScore</name>
+		<id>Keeping Score</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/keeping-score-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/keeping-score-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/keeping-score-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>krattsCreatures</name>
+		<id>Kratts' Creatures</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/krattscreatures-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/krattscreatures-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/krattscreatures-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>latinMusicUsa</name>
+		<id>Latin Music USA</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/latin-music-usa-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/latin-music-usa-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/latin-music-usa-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>madeInSpain</name>
+		<id>Made in Spain</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/madeInSpain_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/madeInSpain_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/madeInSpain_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>marthaSpeaks</name>
+		<id>Martha Speaks</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/marthaspeaks-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/marthaspeaks-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/marthaspeaks-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>masterpiece</name>
+		<id>Masterpiece</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/masterpiece_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/masterpiece_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/masterpiece_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>mayaMiguel</name>
+		<id>Maya & Miguel</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/mayamiguel-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/mayamiguel-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/mayamiguel-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>misterRogersNeighborhood</name>
+		<id>Mister Rogers' Neighborhood</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/mrrogers-296x152-B.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/mrrogers-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/mrrogers-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>motorweek</name>
+		<id>MotorWeek</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/motorWeek_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/motorWeek_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/motorWeek_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>nature</name>
+		<id>Nature</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/nature_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/nature_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/nature_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>needToKnow</name>
+		<id>Need To Know</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/needToKnow_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/needToKnow_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/needToKnow_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>nightlyBusinessReport</name>
+		<id>Nightly Business Report</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/nightlyBusinessReport_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/nightlyBusinessReport_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>nova</name>
+		<id>NOVA</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/nova_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/nova_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/nova_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>nowOnPbs</name>
+		<id>NOW on PBS</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/now-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/now-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/now-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>oceanAdventures</name>
+		<id>Ocean Adventures</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/ocean-adventures-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/ocean-adventures-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/ocean-adventures-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>pbs</name>
+		<id>PBS</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/pbs_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/pbs_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>pbsNewshour</name>
+		<id>PBS NewsHour</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/pbsNewsHour_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/pbsNewsHour_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pbs_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>pov</name>
+		<id>POV</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/pov-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/pov-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/pov-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>scientificAmericanFrontiers</name>
+		<id>Scientific American Frontiers</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/saf-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/saf-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/saf-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>sesameStreet</name>
+		<id>Sesame Street</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/sesamest-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/Sesamest-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/SesameSt-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>secretsOfTheDead</name>
+		<id>Secrets of the Dead</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/secretsOfTheDead_cardView.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/secretsOfTheDead_background.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/secretsOfTheDead_logo.png</networkLogo>
+	</show>
+	<show>
+		<name>sidTheScienceKid</name>
+		<id>Sid the Science Kid</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/sid-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/sid-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/sid-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>soundTracks</name>
+		<id>Sound Tracks</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/soundtracks-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/soundtracks-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/soundtracks-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>superWhy</name>
+		<id>Super Why</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/superwhy-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/superwhy-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/superwhy-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>tavisSmiley</name>
+		<id>Tavis Smiley</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/tavis-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/tavis-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/tavis-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>ascentOfMoney</name>
+		<id>The Ascent of Money</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/ascent-of-money-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/ascent-of-money-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/ascent-of-money-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>botanyOfDesire</name>
+		<id>Botany of Desire</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/botany-desire-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/botany-desire-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/botany-desire-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>theElectricCompany</name>
+		<id>The Electric Company</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/electric-company-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/electric-company-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/electric-company-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>theHumanSparkWithAlanAlda</name>
+		<id>The Human Spark</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/human-spark-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/human-spark-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/human-spark-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>victoryGarden</name>
+		<id>The Victory Garden</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/victory-garden-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/victory-garden-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/victory-garden-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>thisEmotionalLife</name>
+		<id>This Emotional Life</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/emotional-life-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/emotional-life-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/emotional-life-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>washingtonWeek</name>
+		<id>Washington Week</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/washington-week-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/washington-week-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/washington-week-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>wideAngle</name>
+		<id>Wide Angle</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/wide-angle-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/wide-angle-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/wide-angle-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>wiredScience</name>
+		<id>Wired Science</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/wired-science-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/wired-science-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/wired-science-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>woodwrightsShop</name>
+		<id>The Woodwrights Shop</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/woodwright-shop-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/woodwright-shop-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/woodwright-shop-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>wordgirl</name>
+		<id>WordGirl</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/wordgirl-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/wordgirl-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/wordgirl-640x480.png</networkLogo>
+	</show>
+	<show>
+		<name>wordworld</name>
+		<id>WordWorld</id>
+		<cardImage>https://s3.amazonaws.com/litl-channel-data/pbs/cardViewImages/wordworld-296x152.jpg</cardImage>
+		<backgroundImage>https://s3.amazonaws.com/litl-channel-data/pbs/showBackgrounds/wordworld-1280x800.jpg</backgroundImage>
+		<networkLogo>https://s3.amazonaws.com/litl-channel-data/pbs/showLogos/wordworld-640x480.png</networkLogo>
+	</show>
+</psbShows>

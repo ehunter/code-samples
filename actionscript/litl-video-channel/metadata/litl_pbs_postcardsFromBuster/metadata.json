@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Postcards from Buster",
+        "channel_listing_id": "litl_pbs_postcardsFromBuster",
+        "url": "http://pbskids.org/buster/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "",
+        "description": "",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Postcards%20from%20Buster&showId=postcardsFromBuster&network=pbsKids"
+    }
+}

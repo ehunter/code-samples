@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Mister Roger's Neighborhood",
+        "channel_listing_id": "litl_pbs_misterRogersNeighborhood",
+        "url": "http://pbskids.org/rogers/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Helping children learn about themselves, about others and about their world.",
+        "description": "Mister Roger offers children a place where they feel accepted and understood. The show helps children to develop social and emotional skills necessary in a community through conversation, songs, visits with neighbors and guests, and puppet stories.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Mister%20Roger%27s%20Neighborhood&showId=misterRogersNeighborhood&network=pbsKids"
+    }
+}

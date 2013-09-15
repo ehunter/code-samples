@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "In Performance at the White House",
+        "channel_listing_id": "litl_pbs_inPerformanceAtTheWhiteHouse",
+        "url": "http://video.pbs.org/program/1073769600/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Created to showcase the rich fabric of American culture in the setting of the nation's most famous home.",
+        "description": "In Performance at The White House was created to showcase the rich fabric of American culture in the setting of the nation's most famous home.  Since 1978, the program has embraced virtually every genre of American performance art.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Music, Concerts, Performance, Live",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=In%20Performance%20at%20the%20White%20House&showId=inPerformanceAtTheWhiteHouse&network=pbs"
+    }
+}

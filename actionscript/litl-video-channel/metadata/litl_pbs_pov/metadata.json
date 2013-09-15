@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "POV",
+        "channel_listing_id": "litl_pbs_pov",
+        "url": "http://video.pbs.org/program/1154485580/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Television's longest-running showcase for independent non-fiction films.",
+        "description": "POV, a cinema term for \"point of view,\" is television's longest-running showcase for independent non-fiction films. Since 1988, POV has presented more than 275 of the best, boldest and most innovative documentaries to PBS audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, POV, documentary, documentaries, independent, non-fiction, point of view",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=POV&showId=pov&network=pbs"
+    }
+}

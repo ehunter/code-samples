@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Botany of Desire",
+        "channel_listing_id": "litl_pbs_botanyOfDesire",
+        "url": "http://www.pbs.org/thebotanyofdesire/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "This special takes viewers on an eye-opening exploration of the human relationship with the plant world.",
+        "description": "Featuring Michael Pollan and based on his best-selling book, this special takes viewers on an eye-opening exploration of the human relationship with the plant world.  The program shows how the apple, the tulip, marijuana and the potato - evolved to satisfy our yearnings.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Gardening, How To, Outdoors, Nature, Plants",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Botany%20of%20Desire&showId=botanyOfDesire&network=pbs"
+    }
+}

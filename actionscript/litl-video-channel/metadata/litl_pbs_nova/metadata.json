@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "NOVA",
+        "channel_listing_id": "litl_pbs_nova",
+        "url": "http://video.pbs.org/program/979359664/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Explores innovations and discoveries from the world of science and technology.",
+        "description": "As entertaining as it is informative, NOVA explores innovations and discoveries from the world of science and technology while highlighting the human side of science.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, NOVA, science, technology, nature, nonfiction",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=NOVA&showId=nova&network=pbs"
+    }
+}

@@ -1,0 +1,32 @@
+custom = true
+temp.dir = /tmp
+fork_fb = true
+framesPerSecond = 15
+locale = en_US
+
+# set these to be the appropriate values for your system
+flex.sdk.home = /opt/flex-sdk_4.0.0
+litl.sdk.home = /opt/litl-sdk
+litl.sdk.core.path = ${litl.sdk.home}/core
+litl.sdk.controls.path = ${litl.sdk.home}/controls
+litl.sdk.helpers.path = ${litl.sdk.home}/helpers
+
+flex.lib.player = ${flex.sdk.home}/frameworks/libs/player/
+playerglobal.version = 10.1
+FLEX_HOME = ${flex.sdk.home}
+
+litl.channel.version = 0.1.0
+
+flex.source = ${basedir}/src
+flex.lib = ${basedir}/libs
+# discovery has no runtime assets, so build.xml doesn't copy them
+flex.assets = ${basedir}/assets
+flex.main.file = ${ant.project.name}.as
+flex.main = ${flex.source}/${flex.main.file}
+engine.constants = ${flex.source}/com/litl/tv/controller/AppController.as
+
+output.path = ${basedir}/build
+flex.output.path = ${output.path}/deploy
+flex.output.swf = ${flex.output.path}/main.swf
+flex.output.zip = ${output.path}/deploy.zip
+

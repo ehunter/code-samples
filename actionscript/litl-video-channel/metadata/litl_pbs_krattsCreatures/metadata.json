@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Kratts Creatures",
+        "channel_listing_id": "litl_pbs_krattsCreatures",
+        "url": "http://pbskids.org/krattscreatures/login.shtml?",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Zoologists by training, Martin and Chris Kratt are real-life brothers who are crazy about animals and the natural world.",
+        "description": "Zoologists by training, Martin and Chris Kratt are real-life brothers who are crazy about animals and the natural world. The brothers started making wildlife films while in college (Martin earned a B.S., Zoology and Chris has a B.A., Biology) when they went on camping trips around the world. They edited the films in their basement and brought them into schools to show kids. Martin and Chris Kratt have since built a family entertainment brand based on their enthusiasm for animals and their wild popularity with a family audience. Together they have created Zoboomafoo with the Kratt Brothers, Kratt Bros. Be The Creature and Kratts' Creatures. ",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Kratts%20Creatures&showId=krattsCreatures&network=pbsKids"
+    }
+}

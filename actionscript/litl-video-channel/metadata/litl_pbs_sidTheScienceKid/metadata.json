@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Sid the Science Kid",
+        "channel_listing_id": "litl_pbs_sidTheScienceKid",
+        "url": "http://pbskids.org/sid/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "An animated television series using comedy to promote exploration, discovery and science among preschoolers.",
+        "description": "Sid the Science Kid is an animated television series using comedy to promote exploration, discovery and science among preschoolers. The characters pose questions and investigate objects and events that can be directly observed and explored.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Sid%20the%20Science%20Kid&showId=sidTheScienceKid&network=pbsKids"
+    }
+}

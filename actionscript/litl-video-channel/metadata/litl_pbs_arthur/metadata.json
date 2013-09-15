@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Arthur",
+        "channel_listing_id": "litl_pbs_arthur",
+        "url": "http://pbskids.org/arthur/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "The adventures of eight-year-old Arthur and explores issues faced by real kids.",
+        "description": "Arthur aims to foster an interest in reading and writing, to encourage positive social skills, and to model age-appropriate problem-solving strategies. The show chronicles the adventures of eight-year-old Arthur and explores issues faced by real kids.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Arthur&showId=arthur&network=pbsKids"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "MythBusters",
+        "channel_listing_id": "litl_discovery_mythbusters",
+        "url": "http://dsc.discovery.com/tv/mythbusters/",
+        "source_url": "http://netstorage.discovery.com/feeds/litl/, https://s3.amazonaws.com/litl-channel-assets/discovery/",
+        "summary": "MYTHBUSTERS mixes scientific method with curiosity and ingenuity to create their own style of experimentation.",
+        "description": "Hosted by Jamie Hyneman and Adam Savage -- and co-hosted by Tory Belleci, Kari Byron and Grant Imahara -- the MYTHBUSTERS mix scientific method with gleeful curiosity and plain old-fashioned ingenuity to create their own signature style of explosive experimentation.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "Discovery tv mythBusters",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showId=mythBusters&showTitle=MythBusters&network=discovery"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "The Electric Company",
+        "channel_listing_id": "litl_pbs_theElectricCompany",
+        "url": "http://pbskids.org/electriccompany/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A group of friends who share a love of language and are sworn to do the right thing.",
+        "description": "Hey you guuuyyysss! Many parents will remember that beloved catchphrase from the original, THE ELECTRIC COMPANY. Over 30 years later, the show has been re-energized to relate to today's kids with a hip, young cast and a dose of pop culture. It strives to power up children's fundamental reading skills with music, humor, technology and celebrities.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=The%20Electric%20Company&showId=theElectricCompany&network=pbsKids"
+    }
+}

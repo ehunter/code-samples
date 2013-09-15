@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Art 21",
+        "channel_listing_id": "litl_pbs_art21",
+        "url": "http://video.pbs.org/program/1217143847/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Art in the Twenty-First Century",
+        "description": "Art:21\u2013Art in the Twenty-First Century\u201d is the only series on television to focus exclusively on contemporary visual art and artists in the United States. Fascinating and intimate footage allows the viewer to observe the artists at work, watch their process as they transform inspiration into art, and hear their thoughts as they grapple with the physical and visual challenges of achieving their artistic visions.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, art, design, documentary, modern art",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Art%2021&showId=art21&network=pbs"
+    }
+}

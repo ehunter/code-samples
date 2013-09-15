@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "MotorWeek",
+        "channel_listing_id": "litl_pbs_motorweek",
+        "url": "http://video.pbs.org/program/1215243671/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "PBS' award-winning weekly automotive magazine provides car news.",
+        "description": "PBS' award-winning weekly automotive magazine provides unbiased, consumer-oriented car news with feature stories on related topics.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, cars, automobiles, racing",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=MotorWeek&showId=motorweek&network=pbs"
+    }
+}

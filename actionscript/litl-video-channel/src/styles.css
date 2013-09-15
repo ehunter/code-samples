@@ -1,0 +1,82 @@
+/* CSS file */
+
+Label
+{
+    embedFonts: false;
+}
+
+.mainButton
+{
+    fontFace: CorpoS;
+    color: 0xffffff;
+    size: 24;
+}
+
+.titleText
+{
+    fontFace: CorpoS;
+    fontStyle: italic;
+    color: 0xffffff;
+    size: 24;
+}
+
+ThumbnailList
+{
+    backgroundSkin: com.litl.tv.view.skins.ThumbnailListBackground;
+    padding: 27;
+    gap: 10;
+}
+
+ThumbnailListBackground
+{
+    backgroundColor: 0x0;
+    borderThickness: 2;
+    borderColor: 0x4d4d4d;
+}
+
+TextButtonUpSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0x9ad7db;
+    cornerRadius: auto;
+}
+
+TextButtonDownSkin
+{
+    borderThickness: 0;
+    backgroundColor: 0x9ad7db;
+    cornerRadius: auto;
+}
+
+ModalMenuButtonUpSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x0;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonDownSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x9ad7db;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonOverSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x9ad7db;
+    cornerRadius: 30;
+}
+
+ModalMenuButtonDisabledSkin
+{
+    borderColor: 0xffffff;
+    borderThickness: 4;
+    backgroundColor: 0x0;
+    cornerRadius: 30;
+}
+

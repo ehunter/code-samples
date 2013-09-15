@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Curious George",
+        "channel_listing_id": "litl_pbs_curiousGeorge",
+        "url": "http://pbskids.org/curiousgeorge/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "An Emmy award-winning animated series based on the books by Margret and H.A. Rey.",
+        "description": "Curious George encourages children to explore science, engineering, and math in the world around them. George motivates children to expand their own investigations of the world with knowledge of basic concepts and hands-on exploration.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Curious%20George&showId=curiousGeorge&network=pbsKids"
+    }
+}

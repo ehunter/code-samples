@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Clifford the Big Red Dog",
+        "channel_listing_id": "litl_pbs_cliffordTheBigRedDog",
+        "url": "http://pbskids.org/clifford/index-brd-flash.html",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Classic storytelling that presents universal social, emotional, and moral messages to young children.",
+        "description": "The animated series uses classic storytelling to present universal messages to young children. Clifford and his friends embody positive characteristics and encourage children to master the social and emotional challenges in early childhood development.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Clifford%20the%20Big%20Red%20Dog&showId=cliffordTheBigRedDog&network=pbsKids"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Tavis Smiley",
+        "channel_listing_id": "litl_pbs_tavisSmiley",
+        "url": "http://video.pbs.org/program/1127859226/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Featuring interviews with artists, activists, news makers, politicians and everyday people.",
+        "description": "Tavis Smiley features a unique mix of news and pop culture to create a thought-provoking and entertaining program. A hybrid of news, issues and entertainment, it features interviews with artists, activists, news makers, politicians and everyday people.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Tavis Smiley, news, interviews, politics, entertainment",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Tavis%20Smiley&showId=tavisSmiley&network=pbs"
+    }
+}

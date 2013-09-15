@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Sesame Street",
+        "channel_listing_id": "litl_pbs_sesameStreet",
+        "url": "http://pbskids.org/sesame/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "A widely recognized and perpetually daring experiment in educational children's programming.",
+        "description": "Sesame Street provides a comprehensive curriculum that supports preschoolers' cognitive, social, emotional, and physical development. Children learn to use their imaginations, build social skills, and respect people\u2019s differences",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, PBS KIDS, kids, children, children's programming, cartoons, educational, reading",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Sesame%20Street&showId=sesameStreet&network=pbsKids"
+    }
+}

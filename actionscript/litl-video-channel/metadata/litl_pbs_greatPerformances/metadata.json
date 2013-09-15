@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Great Performances",
+        "channel_listing_id": "litl_pbs_greatPerformances",
+        "url": "http://video.pbs.org/program/979359658/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Brings the best in the performing arts from around the world",
+        "description": "Great Performances brings the best in the performing arts from across America and around the world to a US television audience. It presents a diverse programming portfolio of classical music, opera, popular song, musical theater, dance, drama, and performance documentaries.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Great Performances, Theater, Drama, Shakespeare",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Great%20Performances&showId=greatPerformances&network=pbs"
+    }
+}

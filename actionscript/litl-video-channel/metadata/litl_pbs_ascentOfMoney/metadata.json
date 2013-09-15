@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "Ascent of Money",
+        "channel_listing_id": "litl_pbs_ascentOfMoney",
+        "url": "http://www.pbs.org/wnet/ascentofmoney/",
+        "source_url": "http://api.pbs.org/cove/v1/",
+        "summary": "Historian and author Niall Ferguson seeks to explain the financial history of the world.",
+        "description": "In the four-hour version of THE ASCENT OF MONEY, historian and author Niall Ferguson seeks to explain the financial history of the world, exploring how our complex system of global finance evolved over the centuries, how money has shaped the course of human affairs and how the mechanics of this economic system work to create seemingly unlimited wealth\u2014or catastrophic loss.",
+        "price": "0",
+        "category": "Media,TV",
+        "keywords": "PBS, Documentary, Finance, Economic, Economy",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices": "webbook,ruler",
+
+    "shared_engine": {
+        "id": "discovery-channel",
+        "parameters": "showTitle=Ascent%20of%20Money&showId=ascentOfMoney&network=pbs"
+    }
+}
