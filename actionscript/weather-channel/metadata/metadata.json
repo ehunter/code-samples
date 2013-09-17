@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "name": "Weather Channel",
+        "channel_listing_id": "litl_weather",
+        "url": "http://www.weatherbug.com/",
+        "source_url": "http://www.litl.com",
+        "summary": "Stay on top of the temp with this exclusive channel that visualizes current weather in your area.",
+        "description": "The weather channel, powered by WeatherBug©, is a great way to stay on top of your local weather. Vivid animation representing the weather conditions in your area give you the info you need at a glance. The current temperature and expected high and low for the day are also reported so you're always prepared to brave the outdoors. If you're looking ahead, you can take advantage of the 5-day forecast as well.",
+        "price": "0",
+        "category": "News",
+        "keywords": "weather channel",
+        "third_party_code": ""
+    },
+
+    "thumbnail_paths": {
+        "grid": "grid.jpg",
+        "card": "card.jpg",
+        "page": "page.jpg",
+        "channel": "channel.jpg"
+    },
+
+    "compatible_devices" : "webbook,ruler",
+    "release_version" : "version/0.4.2"
+}

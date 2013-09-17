@@ -1,0 +1,112 @@
+<project basedir="./" default="build-debug-swf" name="WeatherChannel">
+  <property name="build.properties.path" value="${basedir}/build.properties"/>
+  <property file="${build.properties.path}"/>
+
+  <taskdef resource="flexTasks.tasks" classpath="${flex.sdk.home}/ant/lib/flexTasks.jar" />
+
+  <target name="clean">
+    <delete dir="${flex.output.path}"/>
+    <delete file="${flex.output.zip}"/>
+  </target>
+
+  <macrodef name="update-channel-metadata">
+    <attribute name="channel-id"/>
+    <attribute name="channel-name"/>
+    <sequential>
+      <replaceregexp file="${channel.constants}"
+             match="(CHANNEL_ID\s*:\s*String = &quot;)(.+)(&quot;;)"
+             replace="\1@{channel-id}\3"/>
+      <replaceregexp file="${channel.constants}"
+             match="(CHANNEL_TITLE\s*:\s*String = &quot;)(.+)(&quot;;)"
+             replace="\1@{channel-name}\3"/>
+      <replaceregexp file="metadata/metadata.json"
+             match="(&quot;channel_listing_id&quot;: &quot;)(.+)(&quot;,)"
+             replace="\1@{channel-id}\3"/>
+      <replaceregexp file="metadata/metadata.json"
+             match="(&quot;name&quot;: &quot;)(.+)(&quot;,)"
+             replace="\1@{channel-name}\3"/>
+    </sequential>
+  </macrodef>
+
+  <target name="build-git-zip" description="Build git deploy zipfile and update with git metadata">
+    <update-channel-metadata channel-id="${channel.id.git}" channel-name="${channel.name.git}"/>
+    <antcall target="build-release-zip"/>
+  </target>
+
+  <target name="build-release-zip" description="Build release deploy zipfile">
+    <antcall target="clean"/>
+    <antcall target="build-release-swf"/>
+    <zip destfile="${flex.output.zip}"
+         basedir="${flex.output.path}"
+         excludes="*.cache" />
+  </target>
+
+  <target name="build-release-swf" description="Build release client swf">
+    <antcall target="build-swf">
+      <param name="debug" value="false"/>
+    </antcall>
+    <antcall target="copy-assets"/>
+  </target>
+
+  <target name="build-debug-swf" description="Build debug client swf">
+    <antcall target="build-swf">
+      <param name="debug" value="true"/>
+    </antcall>
+    <antcall target="copy-assets"/>
+  </target>
+
+  <target name="copy-assets" description="Copy assets to output path">
+    <copy preservelastmodified="true"
+          todir="${flex.output.path}"
+          verbose="true">
+      <fileset dir="${flex.assets}" />
+    </copy>
+  </target>
+
+  <target name="build-swf" description="Build swf">
+    <mxmlc file="${flex.main}"
+           output="${flex.output.swf}"
+           keep-generated-actionscript="false"
+           incremental="true"
+           as3="true"
+           optimize="true"
+           fork="${fork_fb}"
+           maxmemory="512m"
+           debug="${debug}"
+           locale="${locale}"
+           strict="true"
+           static-link-runtime-shared-libraries="true"
+           default-frame-rate="${framesPerSecond}">
+
+      <!-- Get default compiler options. -->
+      <load-config filename="${flex.sdk.home}/frameworks/flex-config.xml"/>
+
+      <!-- List of path elements that form the roots of ActionScript class hierarchies. -->
+      <compiler.source-path path-element="${flex.source}"/>
+      <compiler.source-path path-element="${flex.sdk.home}/frameworks"/>
+
+      <compiler.library-path dir="${flex.sdk.home}/frameworks" append="true">
+        <include name="libs"/>
+        <include name="locale/${locale}"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.core.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.controls.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${litl.sdk.helpers.path}" append="true">
+        <include name="bin"/>
+      </compiler.library-path>
+
+      <compiler.library-path dir="${flex.libs}" append="true">
+        <include name="*.swc"/>
+      </compiler.library-path>
+
+    </mxmlc>
+  </target>
+
+</project>

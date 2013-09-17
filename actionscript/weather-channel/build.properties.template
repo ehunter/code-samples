@@ -1,0 +1,33 @@
+custom = true
+temp.dir = /tmp
+fork_fb = true
+framesPerSecond = 24
+locale = en_US
+
+channel.id = litl_weather
+channel.name = Weather Channel
+channel.id.git = ${channel.id}_git
+channel.name.git = ${channel.name} (git)
+
+# set these to be the appropriate values for your system
+flex.sdk.home = /opt/flex-sdk_4.1.0
+litl.sdk.home = /opt/litl-sdk
+litl.sdk.core.path = ${litl.sdk.home}/core
+litl.sdk.controls.path = ${litl.sdk.home}/controls
+litl.sdk.helpers.path = ${litl.sdk.home}/helpers
+
+flex.lib.player = ${flex.sdk.home}/frameworks/libs/player/
+playerglobal.version = 10.1
+FLEX_HOME = ${flex.sdk.home}
+
+flex.source = ${basedir}/src
+flex.libs = ${basedir}/libs
+flex.assets = ${basedir}/build-assets
+flex.main = ${flex.source}/com/litl/weather/WeatherChannel.as
+channel.constants = ${flex.source}/LitlChannelMetadata.as
+
+output.path = ${basedir}/build
+flex.output.path = ${output.path}/deploy
+flex.output.swf = ${flex.output.path}/main.swf
+flex.output.zip = ${output.path}/deploy.zip
+
