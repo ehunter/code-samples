@@ -20,4 +20,4 @@ The cell's TableViewController initiates an animation like so:
 
 This is code I wrote specifically for the app I currently work on called Woven during
 an exploration phase for animations. We ended up not using this animation, but I learned
-a lot about core animation trying to pull off this animation.
+a lot about core animation in the process.
