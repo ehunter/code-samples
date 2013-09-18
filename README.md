@@ -21,7 +21,7 @@ lies in a deep understanding of both the design and the technology fields.
 I currently live in Boston, MA with my wife, daughter and 2 dogs. I was born and raised in
 Tulsa, OK. I lived in San Francisco for 5 years before moving to Boston.
 
-My wife and I are beekeepers and my current side project is attaching sensors to our hives (weight,
+My wife and I are [beekeepers](http://dev.woven.by/Kw5dx0XHWZ/) and my current side project is attaching sensors to our hives (weight,
 temp, humidity and hopefully motion) via a raspberry pi and some xBee radios. I'll send that data
 to a server (cosm) and then display it client side on a website. If all goes well I'll be able
 to tell how much honey our hives are producing without having to open them up, which means I'll
