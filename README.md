@@ -16,6 +16,8 @@ to common coding standards and style.
 I think of myself as a coder and designer. I like to go back and forth. My strength
 lies in a deep understanding of both the design and the technology fields.
 
+My design and animation work can be seen [here](http://erik-hunter.com/)
+
 ###Personal
 
 I currently live in Boston, MA with my wife, daughter and 2 dogs. I was born and raised in
