@@ -7,20 +7,20 @@ The below images will help explain the various layout options.
 
 ###2 Image Cluster
 
-![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_2_pics.png)
+![My image](https://github.com/ehunter/github.io/blob/master/images/cluster_2_pics.png?raw=true)
 
 ###3 Image Cluster
 
-![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_3_pics.png)
+![My image](https://github.com/ehunter/github.io/blob/master/images/cluster_3_pics.png?raw=true)
 
 ###4 Image Cluster
 
-![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_4_pics.png)
+![My image](https://github.com/ehunter/github.io/blob/master/images/cluster_4_pics.png?raw=true)
 
 ###5 Image Cluster
 
-![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_5_pics.png)
+![My image](https://github.com/ehunter/github.io/blob/master/images/cluster_5_pics.png?raw=true)
 
 ###6 Image Cluster
 
-![My image](https://raw.github.com/ehunter/github.io/gh-pages/images/cluster_6_pics.png)
+![My image](https://github.com/ehunter/github.io/blob/master/images/cluster_6_pics.png?raw=true)
