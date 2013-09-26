@@ -24,11 +24,9 @@ ParticleGroup.prototype.init = function() {
 	for (var i = 0; i < this.initCount; i++) {
 		this.activeParticles.push(new Bee(i));
 		this.particles.push(this.activeParticles[i]);
-		console.log("stoping at " + i);
 	}
 	//initially push all the particles onto a 'master' array
 	for(var j = this.initCount; j < this.PARTICLECOUNT - this.initCount; j++) {
-		console.log("starting at " + j);
 		this.particles.push(new Bee(j));
 	}
 
@@ -45,16 +43,12 @@ ParticleGroup.prototype.update = function() {
 }
 
 ParticleGroup.prototype.makeAngry = function() {
-	this.angerLevel = (this.angerLevel + 1);
+	this.angerLevel += 1;
 
 	var length = this.activeParticles.length;
 	var newLength = length + this.angerLevel;
 
-	console.log("particles length is " + this.activeParticles.length);
-	console.log("newLength is " + newLength);
-
 	for (var i = length; i < newLength-1; i++) {
-		console.log(i);
 		this.particles[i].addCurve();
 		this.activeParticles.push(this.particles[i]);
 	}

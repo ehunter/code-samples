@@ -36,6 +36,15 @@ var BeeHive = function() {
 	//this.mouse = {x: 0, y: 0};
 	//this.projector;
 	this.hiveObjects = [];
+
+    this.shakeTween = function(item, repeatCount)
+    {
+        var originalX = item.position.x;
+        var originalY = item.position.y;
+        var originalScale = item.position.scale;
+        TweenLite.to(item.position, .1, {x:item.position.x + ((Math.random()*12)+5), ease:RoughEase.ease.config({strength:3, points:20, template:Elastic.easeIn, randomize:true}) });
+        TweenLite.to(item.position, .1, {x:originalX, ease:RoughEase.ease.config({strength:3, points:20, template:Elastic.easeInOut, randomize:true}), delay:.1 });
+    }
 };
 
 BeeHive.prototype.init = function() {
@@ -165,6 +174,13 @@ BeeHive.prototype.init = function() {
     ////////////////  END HIVES
 }
 
-Bee.prototype.getHiveObjects = function() {
+BeeHive.prototype.getHiveObjects = function() {
 	return this.hiveObjects;
+}
+
+BeeHive.prototype.shake = function() {
+    this.shakeTween(this.middleHiveCube, 7);
+    this.shakeTween(this.topHiveCube, 2);
+    this.shakeTween(this.bottomHiveCube, 2);
+    this.shakeTween(this.hiveLidCube, 2);
 }

@@ -41,11 +41,11 @@ function init() {
 		return false;
 	};
 
-	particleGroup = new ParticleGroup();
-	particleGroup.init();
-
 	beeHive = new BeeHive();
 	beeHive.init();
+
+	particleGroup = new ParticleGroup();
+	particleGroup.init();
 
 	document.addEventListener('mousemove', onDocumentMouseMove, false);
 	document.addEventListener('click', onMouseClick);
@@ -73,6 +73,7 @@ function onMouseClick(event) {
     {
         console.log("Hive was clicked. Add more bees to the particle system");
         particleGroup.makeAngry();
+        beeHive.shake();
         // how to access the faces of the hive
         //intersects[ 0 ].face.color.setRGB( 0.8 * Math.random() + 0.2, 0, 0 ); 
         //intersects[ 0 ].object.geometry.colorsNeedUpdate = true;
