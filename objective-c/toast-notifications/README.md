@@ -16,4 +16,4 @@ This is code I wrote specifically for the app I currently work on called Woven.
 The below images are how the various notifications look.
 
 ###Custom Notification types
-![image](https://github.com/ehunter/github.io/blob/gh-pages/images/notifications.png?raw=true)
+![image](https://github.com/ehunter/github.io/blob/master/images/notifications.png?raw=true)
