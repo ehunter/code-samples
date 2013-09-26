@@ -13,7 +13,7 @@ This is code I wrote specifically for the app I currently work on called Woven.
 The below images are how the grid looks on various devices.
 
 ###iPhone 5 Grid
-![image](https://github.com/ehunter/github.io/blob/gh-pages/images/GridView_iPhone5.png?raw=true)
+![image](https://github.com/ehunter/github.io/blob/master/images/GridView_iPhone5.png?raw=true)
 
 ###iPad Grid
-![image](https://github.com/ehunter/github.io/blob/gh-pages/images/GridView_iPad.png?raw=true)
+![image](https://github.com/ehunter/github.io/blob/master/images/GridView_iPad.png?raw=true)
