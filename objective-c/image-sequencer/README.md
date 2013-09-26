@@ -16,5 +16,5 @@ are similar enough to create a Wiggle (aka Animated GIF).
 
 The link below is a demo of the 'events' and 'wiggles' this code creates
 
-<a href="http://vimeo.com/73715103" target="_blank"><img src="https://github.com/ehunter/github.io/blob/gh-pages/images/wiggles_demo.jpg?raw=true" 
+<a href="http://vimeo.com/73715103" target="_blank"><img src="https://github.com/ehunter/github.io/blob/master/images/wiggles_demo.jpg?raw=true" 
 alt="IMAGE ALT TEXT HERE" width="750" height="562" border="10" /></a>
