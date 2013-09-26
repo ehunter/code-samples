@@ -6,9 +6,9 @@ This is a small HTML template with inline CSS I recently wrote that allows users
 The "%@" strings are what get replaced with dynamic strings at runtime in Objective-C.
 
 ###Previewing HTML email on iOS before sending
-![myImage](https://github.com/ehunter/github.io/blob/gh-pages/images/mobile_email_share.png?raw=true)
+![myImage](https://github.com/ehunter/github.io/blob/master/images/mobile_email_share.png?raw=true)
 
 ###HTML email received and viewing in Gmail 
-![myImage](https://github.com/ehunter/github.io/blob/gh-pages/images/gmail_email_share.png?raw=true)
+![myImage](https://github.com/ehunter/github.io/blob/master/images/gmail_email_share.png?raw=true)
 
 
